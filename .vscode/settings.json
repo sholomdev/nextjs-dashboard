@@ -1,0 +1,10 @@
+{
+	"workbench.colorCustomizations": {
+		"list.errorForeground": "#e54135",
+		"gitDecoration.modifiedResourceForeground": "#32bed1",
+		"gitDecoration.untrackedResourceForeground": "#7dd47a",
+		"activityBar.background": "#083611",
+		"titleBar.activeBackground": "#0B4B18",
+		"titleBar.activeForeground": "#F3FDF5"
+	}
+}
